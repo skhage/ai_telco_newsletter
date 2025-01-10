@@ -1,0 +1,19 @@
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'newsletters/**'
+jobs:
+  create_pr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          branch: main
+          title: 'Automated PR for changes in subdirectory'
+          body: 'This PR was automatically created for changes in the subdirectory.'
+          base: main
