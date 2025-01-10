@@ -1,0 +1,22 @@
+### News and Announcements in Data Technology for the Week of December 16-22, 2024
+
+#### T-Mobile
+- **Revenue Growth and Strategic Initiatives**: T-Mobile (TMUS) reported significant revenue growth in Q3 2024, with $20.16 billion in revenues, representing a year-over-year (y/y) growth of 4.73% and a quarter-over-quarter (q/q) growth of 1.97%. The company's net income margin expanded to 15.17% from 11.13%, indicating improved margins[1].
+- **Guidance and Future Plans**: T-Mobile raised its FY2024 guidance, expecting 5.7 million net customer additions, $31.7 billion in adjusted EBITDA, and $16.85 billion in adjusted free cash flow (FCF). The company aims to boost service revenues by 5% CAGR through FY2027 through strategic initiatives like broadband expansion and innovative 5G solutions[1].
+- **Shareholder Returns**: T-Mobile targets to return $50 billion to shareholders through repurchases by FY2027 and expects to have an additional $20 billion as a cash buffer. Despite a YTD surge of more than 50%, valuation analysis suggests further upside potential, with a potential upside of 26% if TMUS achieves its growth targets[1].
+- **Holiday Promotions**: T-Mobile, along with AT&T, has announced new deals on phones and tablets during the holiday season. However, some industry experts believe these promotions are more about marketing than genuine value, highlighting the need for uniform unlocking policies across carriers to facilitate easier customer switching[2].
+
+#### AT&T
+- **Holiday Promotions and Unlocking Policies**: Similar to T-Mobile, AT&T has also launched holiday promotions but has been criticized for its stance on phone unlocking policies. AT&T, along with T-Mobile, has opposed the FCC's proposed rule to unlock phones within 60 days of activation, arguing it would impact their ability to offer discounts and fight fraud[2].
+- **Family Phone Plans**: AT&T offers competitive family phone plans but lacks the four-line deal that bundles in free iPhones, unlike T-Mobile's Essentials plan. AT&T's unlimited plans do not currently include streaming perks, unlike Verizon's offerings[5].
+
+#### Verizon
+- **Family Phone Plans and Perks**: Verizon offers flexible family phone plans with the option to "mix and match" lines between its Unlimited Welcome and Unlimited Plus plans. The carrier has updated its wireless plans to remove automatically included perks like the Disney bundle or Apple Arcade, instead offering them as optional add-ons at $10 per month per perk[5].
+- **Device Deals and Promotions**: Verizon provides device deals for those switching to its pricier Unlimited Plus or Unlimited Ultimate options. The carrier also offers free iPhone deals with its Unlimited plans, although these are limited to the iPhone 15 model[5].
+
+#### Lumen and Charter Communications
+- **Cybersecurity Concerns**: The recent Salt Typhoon campaign has highlighted significant cybersecurity concerns in the telecommunications industry. Lumen, Charter, Verizon, and AT&T were among the carriers compromised in this operation, which targeted senior Democratic and Republican campaign officials and the wiretap request system mandated by CALEA. This incident underscores the need for enhanced cyber hygiene and preparedness in the industry[4].
+- **Regulatory Overreach Debate**: The carriers have been vocal about their opposition to the proposed FCC rule on phone unlocking, arguing it would impact their ability to offer discounts and fight fraud. This debate reflects broader concerns about regulatory overreach in the telecommunications sector[2].
+
+### Summary
+The week has seen significant developments in the U.S. telecommunications industry, particularly focusing on revenue growth, strategic initiatives, and cybersecurity concerns. T-Mobile's strong Q3 performance and ambitious future plans highlight its commitment to growth and shareholder returns. Meanwhile, both T-Mobile and AT&T have faced criticism over their stance on phone unlocking policies during the holiday season. Verizon's flexible family phone plans and optional perks offer competitive options for consumers. The Salt Typhoon campaign has underscored the critical need for enhanced cybersecurity measures across the industry.
